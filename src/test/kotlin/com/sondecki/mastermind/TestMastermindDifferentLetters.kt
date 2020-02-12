@@ -51,19 +51,4 @@ class TestMastermindDifferentLetters {
 
     @Test
     fun test15() = testEvaluation("EBAC", "EBAC", 4, 0)
-
-    @Test
-    fun test16() = testEvaluation("AABC", "ADFA", 1, 1)
-
-    @Test
-    fun test17() = testEvaluation("AABC", "DFAA", 0, 2)
-
-    @Test
-    fun test18() = testEvaluation("AABC", "DEFA", 0, 1)
-
-    @Test
-    fun test19() = testEvaluation("ABCE", "DAAA", 0, 1)
-
-    @Test
-    fun test20() = testEvaluation("ABCD", "BBBB", 1, 0)
 }
