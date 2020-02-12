@@ -1,4 +1,4 @@
-package mastermind
+package com.sondecki.mastermind
 
 import kotlin.random.Random
 

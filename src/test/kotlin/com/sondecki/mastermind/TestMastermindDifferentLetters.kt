@@ -1,4 +1,4 @@
-package mastermind
+package com.sondecki.mastermind
 
 import org.junit.FixMethodOrder
 import org.junit.Test
